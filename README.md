@@ -19,7 +19,7 @@ While antibodies have been widely applied in both biology and clinical medicine,
 ## Glossary of Terms
 
 <dl>
-  <dt>[receptor binding domain (RBD)](https://en.wikipedia.org/wiki/Binding_domain)</dt>
+  <dt>RBD (<a href="https://en.wikipedia.org/wiki/Binding_domain">receptor binding domain</a>)</dt>
   <dd>The part of a molecule that binds to a receptor (eg: SARS-CoV-2's spikes have an RBD which binds to the ACE2 receptor)</dd>
 
   <dt>ΔG</dt>
