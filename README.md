@@ -6,6 +6,8 @@ While antibodies have been widely applied in both biology and clinical medicine,
 
 ![Size comparison of an IgG antibody (140Å wide) and an aptamer (25Å wide)](images/antibody-vs-aptamer.jpg)
 
+An aptamer which binds to the SARS-CoV-2's spikes [has already been discovered](https://www.aptagen.com/aptamer-details/?id=7060), and could block the virus' infection in the lugs by using an inhaler which aerosolizes the aptamers.
+
 ## Videos
 
 ### Kary Mullis' next-gen cure for killer infection (5-minute video)
