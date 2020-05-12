@@ -37,8 +37,11 @@ An aptamer which binds to the SARS-CoV-2's spikes [has already been discovered](
 [Discovery of Aptamers Targeting Receptor-Binding Domain of the SARS-CoV-2 Spike Glycoprotein (ChemRxiv, 2020-02-04)](https://github.com/epitron/synthetic-antibodies/raw/master/pdfs/Discovery%20of%20Aptamers%20Targeting%20Receptor-Binding%20Domain%20of%20the%20SARS-CoV-2%20Spike%20Glycoprotein%20(ChemRxiv%2C%202020).pdf)
 > Identifies high-binding-affinity aptamers targeting SARS-CoV-2 RBD, using an ACE2 competition-based aptamer selection strategy and a machine learning screening algorithm. The K d values of the optimized CoV2-RBD-1C and CoV2-RBD-4C aptamers against RBD were 5.8 nM and 19.9 nM, respectively. Simulated interaction modeling, along with competitive with experiments, suggests that two aptamers may have partially identical binding sites at ACE2 on SARS-CoV-2 RBD. These aptamers present an opportunity for generating new probes for recognition of SARS-CoV-2, and could provide assistance in the diagnosis and treatment of SARS-CoV-2 while providing a new tool for in-depth study of the mechanisms behind the coronavirus infection.
 
-[SARS-CoV-2 RBD-4C (ID# 7060) sequence](https://www.aptagen.com/aptamer-details/?id=7060)
+[SARS-CoV-2 RBD-4C (ID# 7060) sequence](https://www.aptagen.com/aptamer-details/?id=7060) (K<sub>D</sub> affinity: 19.9 nM)
 > The DNA sequence of an aptamer which binds to the receptor binding domain of SARS-CoV-2's spikes
+
+[SARS-CoV-2 Aptamer 1C (ID# 7058)](https://www.aptagen.com/aptamer-details/?id=7058) (K<sub>D</sub> affinity: 5.8 nM)
+> An older aptamer which binds to SARS-CoV-2's RBD.
 
 [ssDNA aptamers against the SARS-CoV-2 spike protein delivered through inhalation (Clarkson, 2020)](https://github.com/epitron/synthetic-antibodies/raw/master/pdfs/ssDNA%20aptamers%20against%20the%20SARS-CoV-2%20spike%20protein%20delivered%20through%20inhalation%20(Clarkson%2C%202020).pdf)
 > Proposed is a therapeutic method based on single-stranded DNA aptamers targeted against the specific sequence (the RBD motif) of Spike protein responsible for SARS-CoV2 entry into human epithelial cells. Solubilized and packed in extremely cheap, pressurized metered-dosed inhalers (pMDI), the selectively chosen aptamer(s) can be quickly and effectively inhaled in the upper respiratory tree in the form of aerosolized particles covering the epithelial surface and blocking the SARS-CoV2 entry into the cells, thus inhibiting its replication.
